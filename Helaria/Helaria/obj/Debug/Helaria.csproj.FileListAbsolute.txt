@@ -1,0 +1,9 @@
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\bin\Debug\Helaria.exe.config
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\bin\Debug\Helaria.exe
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\bin\Debug\Helaria.pdb
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.csprojResolveAssemblyReference.cache
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.Form1.resources
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.Properties.Resources.resources
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.csproj.GenerateResource.Cache
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.exe
+c:\users\willi\documents\visual studio 2015\Projects\Helaria\Helaria\obj\Debug\Helaria.pdb
